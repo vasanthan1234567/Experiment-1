@@ -1,6 +1,8 @@
 # Experiment-1
-##  Write a C programs  to demonstrate the working of following constructs with possible test cases:
-a) do…while b) while…do c) if …else d) switch e) for
+##  Write programs in Python Language to demonstrate the working of
+followingconstructs with possible test cases: a) do…while b) while…do c)
+if …else d) switch e) for
+
 ## a) Aim
 To demonstrate the working of the do...while loop, which ensures the loop body is executed at least once, even if the condition is false initially.
 
